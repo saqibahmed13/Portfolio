@@ -8,5 +8,5 @@
      ```
       https://github.com/saqibahmed13/Portfolio
      ```
-   ii. Open with Live Server.
+   ii. Open with Live Server...
       
